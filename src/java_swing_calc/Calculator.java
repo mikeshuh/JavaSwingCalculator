@@ -1,4 +1,4 @@
-package hw_7;
+package java_swing_calc;
 
 import java.awt.*;
 import java.awt.event.*;
